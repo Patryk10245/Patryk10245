@@ -1,7 +1,8 @@
-### Hello there 👋
-<!--<a href="https://github.com/Patryk10245">
-  <img src="https://tenor.com/pl/view/hello-there-gif-20813354" />
+<a href="https://github.com/Patryk10245">
+  <img src="https://github.com/Patryk10245/Patryk10245/blob/main/images/hello-there.gif" alt="Hello there" width="350" />
 </a>
+
+# Hello there! I'm Patrick! 👋
 <!--
 **Patryk10245/Patryk10245** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
